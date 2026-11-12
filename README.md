@@ -24,8 +24,6 @@ npm run test:e2e
 
 Vitest kiểm tra logic, service và API. Playwright kiểm tra giao diện, bộ lọc, lỗi/retry và cách ly S01/S02; cần Microsoft Edge, tự chạy server ở cổng 3100.
 
-Kết quả đã ghi nhận: **18 test Vitest + 9 test Playwright pass**, TypeScript và build pass. Xem [chi tiết kiểm tra](docs/validation.md).
-
 Mốc giả lập cố định: **11/11/2026 09:00 (GMT+7)**. Danh sách sắp theo mã bài:
 
 | Bài | Kết quả kỳ vọng |
