@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-12",
+  "existingDesignSystem": false,
+  "framework": "Next.js App Router, as requested in the brief",
+  "font": "Be Vietnam Pro, self-hosted through Fontsource",
+  "theme": "Coral",
+  "motion": "minimal control transitions only"
+}
