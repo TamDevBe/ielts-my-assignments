@@ -9,3 +9,13 @@ test-results/
 !.env.example
 ~$*.docx
 .reference/
+
+# Local briefs and agent tooling are not website source.
+*.docx
+*.dox
+AGENTS.md
+.hallmark/
+.agents/
+.codex/
+skills/
+docs/licenses/UI-UX-Pro-Max-license.txt
